@@ -17,7 +17,7 @@ function navigationBar() {
         style={{ zIndex: '2', position: 'fixed', top: '0', width: '100%' }}
         collapseOnSelect
         expand="md">
-        <Navbar.Brand style={{ marginLeft: "1rem" }} href="#home">Chetan Jadhav</Navbar.Brand>
+        <Navbar.Brand style={{ marginLeft: "1rem" }} href="#home">Pooja Gangurde</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse style={{ justifyContent: 'flex-end', marginRight: '1rem', borderColor: 'none' }}>
           <Nav className='links' style={{ margin: '0 1rem' }}>
